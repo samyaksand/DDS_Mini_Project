@@ -25,7 +25,7 @@ static const char *ng0 = "/home/ise/Desktop/DDS_Project/full_subtractor.v";
 
 
 
-static void Cont_25_0(char *t0)
+static void Cont_29_0(char *t0)
 {
     char t6[8];
     char t19[8];
@@ -81,7 +81,7 @@ LAB0:    t1 = (t0 + 2840U);
 
 LAB3:    goto *t2;
 
-LAB2:    xsi_set_current_line(25, ng0);
+LAB2:    xsi_set_current_line(29, ng0);
     t2 = (t0 + 1048U);
     t3 = *((char **)t2);
     t2 = (t0 + 1208U);
@@ -157,7 +157,7 @@ LAB7:    t31 = *((unsigned int *)t19);
 
 }
 
-static void Cont_26_1(char *t0)
+static void Cont_30_1(char *t0)
 {
     char t3[8];
     char t23[8];
@@ -376,7 +376,7 @@ LAB0:    t1 = (t0 + 3088U);
 
 LAB3:    goto *t2;
 
-LAB2:    xsi_set_current_line(26, ng0);
+LAB2:    xsi_set_current_line(30, ng0);
     t2 = (t0 + 1048U);
     t4 = *((char **)t2);
     memset(t3, 0, 8);
@@ -707,7 +707,7 @@ LAB28:    t180 = *((unsigned int *)t168);
 
 extern void work_m_13482209499085555544_3788047035_init()
 {
-	static char *pe[] = {(void *)Cont_25_0,(void *)Cont_26_1};
+	static char *pe[] = {(void *)Cont_29_0,(void *)Cont_30_1};
 	xsi_register_didat("work_m_13482209499085555544_3788047035", "isim/fs1_isim_beh.exe.sim/work/m_13482209499085555544_3788047035.didat");
 	xsi_register_executes(pe);
 }

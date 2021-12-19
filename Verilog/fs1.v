@@ -53,12 +53,15 @@ module fs1;
 
 	initial begin
 	
+	//Defining each expected output using the ideal case inputs
 	assign _D=_A^_B^_Bin;
 	assign _Bout=((~_A)&_B)|((~_A)&_Bin)|(_B&_Bin);
 	
+	//Implementing the SA0 faults by forcing a particular variable to 0
+	//To run simulations, comment out the variables whhich should NOT be sa0
 	force A = 0;
-	//force B = 0;
-	//force Bin = 0;
+	force B = 0;
+	force Bin = 0;
 	
 		// Initialize Inputs
 		flag = 0;

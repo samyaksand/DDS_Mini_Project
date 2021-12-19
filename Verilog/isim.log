@@ -13,5 +13,5 @@ Time resolution is 1 ps
 # run 1000 ns
 Simulator is doing circuit initialization process.
 Finished circuit initialization process.
-Fault error: A is stuck-at 0
+Fault error: A, B and Bin is stuck-at 0
 # exit 0
