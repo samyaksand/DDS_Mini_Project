@@ -1,0 +1,16 @@
+body {
+    font-family: Verdana;
+    background: #f0f0f0;
+    max-width: 60em;
+}
+
+#guide {
+    float: right;
+    border: black solid 0.1em;
+    padding: 1em;
+    background: #fff;
+}
+
+#guide h1 {
+    font-size: 1.2em;
+}
