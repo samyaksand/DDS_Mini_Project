@@ -18,3 +18,4 @@ Test stuck at zero fault at different locations on the I/O wires of the logic ga
 | [Samyak Sanjay Sand](https://github.com/samyaksand) |201CS251 |   
 | Sana Azmiya | 201CS252 |    
 
+Requirements to run website: Web browser (such as Google Chrome or Mozilla Firefox)
