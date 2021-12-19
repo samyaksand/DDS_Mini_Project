@@ -6,7 +6,7 @@ Detection of SA0 faults in full-subtractor circuit.
 Test stuck at zero fault at different locations on the I/O wires of the logic gates of a full subtractor using an HDL simulator like Xilinx and note down the results obtained, timing diagrams and logic diagrams.
 
 ### Website Link - https://samyaksand.wixsite.com/group13ddsproject
-### Simulation Link - https://samyaktruthtablesimulator.netlify.app/
+### Simulation Link - https://samyaktruthtablegenerator.netlify.app/
 
 ## Members
 
