@@ -1,4 +1,4 @@
-# DDS_Mini_Project
+# Group 13 DDS_Mini_Project
 Detection of SA0 faults in full-subtractor circuit.
 
 ## Aim
